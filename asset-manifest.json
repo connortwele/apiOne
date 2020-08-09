@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/apiOne/static/css/main.60331e06.chunk.css",
+    "main.js": "/apiOne/static/js/main.c7ce9f5e.chunk.js",
+    "main.js.map": "/apiOne/static/js/main.c7ce9f5e.chunk.js.map",
+    "runtime-main.js": "/apiOne/static/js/runtime-main.71477700.js",
+    "runtime-main.js.map": "/apiOne/static/js/runtime-main.71477700.js.map",
+    "static/js/2.673cca80.chunk.js": "/apiOne/static/js/2.673cca80.chunk.js",
+    "static/js/2.673cca80.chunk.js.map": "/apiOne/static/js/2.673cca80.chunk.js.map",
+    "index.html": "/apiOne/index.html",
+    "precache-manifest.4b1a4d995c8c2f19a52375a928668bf1.js": "/apiOne/precache-manifest.4b1a4d995c8c2f19a52375a928668bf1.js",
+    "service-worker.js": "/apiOne/service-worker.js",
+    "static/css/main.60331e06.chunk.css.map": "/apiOne/static/css/main.60331e06.chunk.css.map",
+    "static/js/2.673cca80.chunk.js.LICENSE.txt": "/apiOne/static/js/2.673cca80.chunk.js.LICENSE.txt",
+    "static/media/chuckFace.png": "/apiOne/static/media/chuckFace.8fd2e6f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71477700.js",
+    "static/js/2.673cca80.chunk.js",
+    "static/css/main.60331e06.chunk.css",
+    "static/js/main.c7ce9f5e.chunk.js"
+  ]
+}
